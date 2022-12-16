@@ -6,6 +6,9 @@ public class ejer_1 {
 	System.out.println(PegaNVeces("*","#",10));
 	
 	}//main
+	
+	
+	//CAMBIOS   ENTORNOSSSS
 	public static String PegaNVeces(String asterisco,String hastag, int max) {
 		String r="";
 		for (int contador=0; contador<max; contador++) {
